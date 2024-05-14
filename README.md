@@ -23,9 +23,9 @@ From here you will be able to find the packet sent to the router to edit the rul
 You must take note of:
 
 - SID, located under `Cookie` in the `Header`
-  ![]()
+  ![](https://github.com/danielenicoletti/ZTE_CloudFlare_IP_NAT_Configurator/blob/main/imgs/SID.png?raw=true)
 - sessionTOKEN, located under the `Payload`
-  ![]()
+  ![](https://github.com/danielenicoletti/ZTE_CloudFlare_IP_NAT_Configurator/blob/main/imgs/SESSION%20TOKEN.png?raw=true)
 
 You can now run the script using `python main.py` on windows or `python3 main.py` on linux
 
